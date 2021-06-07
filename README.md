@@ -25,3 +25,7 @@ After installation is complete:
 - <strong>App Cart</strong> - Cart application is used for managing products in cart
 - <strong>App Shop</strong> - Shop application is for managing products on th website
 
+## Other terms and definitions
+
+<strong>Context Processor</strong> - A context processor is a function that receives the request object	as a parameter and returns a dictionary	of objects that	will be available to all	the	templates	rendered using	RequestContext.
+
